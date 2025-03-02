@@ -13,3 +13,5 @@
     <li>Caminar</li>
     <li>Música</li>
     <li>Cine</li></li>
+
+ ![imagen](https://github.com/nancymendez0/NancyMendez/blob/main/imagenes/descargar%20(1).jpg)
